@@ -1,0 +1,6 @@
+python-dotenv
+tqdm
+numpy
+pandas
+opencv-python
+matplotlib
